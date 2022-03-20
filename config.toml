@@ -1,0 +1,14 @@
+baseURL = 'https://goalitium.github.io/'
+languageCode = 'en-us'
+title = 'The Goat Blog'
+theme = 'color-your-world'
+
+[params.style]
+  isDark = true
+  darkAccent = "#4677D0"
+  lightAccent = "#4677D0"
+  
+[params.notFound]
+  title         = "404 Page not found"
+  description   = "This page was not found."
+  paragraph     = "No goats here."
